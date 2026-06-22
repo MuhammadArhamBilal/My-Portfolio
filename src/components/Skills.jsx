@@ -1,4 +1,4 @@
-import { skills } from "../data";
+import { skills } from "../Data.js";
 
 const categories = ["Frontend", "Backend", "Languages"];
 

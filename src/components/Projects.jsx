@@ -1,4 +1,4 @@
-import { projects } from "../data";
+import { projects } from "../Data.js";
 
 const statusStyles = {
   emerald: "text-accent-emerald border-accent-emerald/40 bg-accent-emerald/10",

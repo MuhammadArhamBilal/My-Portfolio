@@ -77,7 +77,7 @@ export default function Hero() {
           <div className="flex flex-wrap gap-4 mt-8">
             <a
               href="#projects"
-              className="btn-shine font-mono text-sm border border-base-border bg-accent-emerald text-base-bg text-orange-400 px-5 py-3 rounded font-medium transition-all duration-300 hover:scale-105 hover:shadow-[0_0_25px_rgba(52,211,153,0.45)] active:scale-95"
+              className="btn-shine font-mono text-sm border  bg-accent-emerald px-5 py-3 rounded font-medium transition-all duration-300 hover:scale-105 hover:shadow-[0_0_25px_rgba(52,211,153,0.45)] active:scale-95"
             >
               view_projects()
             </a>
